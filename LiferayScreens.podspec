@@ -58,7 +58,7 @@ Pod::Spec.new do |s|
 	s.dependency 'YapDatabase', '2.6.5'
 
 	# Login & signup: save credentials
-	s.dependency 'KeychainAccess', '1.2.1'
+	#s.dependency 'KeychainAccess', '1.2.1'
 
 	# UserPortrait
 	#s.dependency 'CryptoSwift', '0.0.13'
